@@ -1,0 +1,8 @@
+application:
+  address: :1000
+db_configuration:
+  host: "localhost"
+  port: "5432"
+  user: "postgres"
+  password: "0809812003"
+  dbname: "carsharing"
